@@ -10,6 +10,19 @@
 
 ---
 
+## 📱 Updated UI Preview
+
+<table>
+  <tr>
+    <td><img src="./assets/ui-update3.png" alt="ui-3" width="300" /></td>
+    <td>
+      <img src="./assets/ui-update.PNG" alt="ui-1" width="300" /><br/><br/><br/>
+      <img src="./assets/ui-update2.PNG" alt="ui-2" width="300" />
+    </td>
+  </tr>
+</table>
+---
+
 ## 🎬 Demos
 
 ### 🗣️ Speech Recognition in Action  
