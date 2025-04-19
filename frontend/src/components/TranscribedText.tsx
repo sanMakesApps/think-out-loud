@@ -47,7 +47,7 @@ const TranscribedText: React.FC<TranscribedTextProps> = ({
         {report ? (
           <button
             onClick={onDownload}
-            className="bg-black text-white border border-zinc-300 flex items-center gap-x-2 px-4 py-2 rounded-full cursor-pointer hover:bg-zinc-700 transition"
+            className=" bg-emerald-600 text-white border border-zinc-300 flex items-center gap-x-2 px-4 py-2 rounded-full cursor-pointer hover:bg-slate-800 transition"
           >
             <img src={downloadFile} alt="save" width={18} height={22} />
             <span className="hidden sm:inline">Download Report</span>
