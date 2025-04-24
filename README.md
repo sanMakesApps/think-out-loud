@@ -4,13 +4,13 @@
 
 ---
 
-## 📱 Mobile Preview
+## Mobile Preview
 
 <img src="./assets/mobile-view.PNG" alt="Mobile View" width="300" />
 
 ---
 
-## 📱 Updated UI Preview
+## Updated UI Preview
 
 <table>
   <tr>
@@ -23,37 +23,37 @@
 </table>
 ---
 
-## 🎬 Demos
+## Demos
 
-### 🗣️ Speech Recognition in Action  
+### Speech Recognition in Action  
 <img src="./assets/SpeechRecDemo.gif" alt="Speech Recognition Demo" width="700" />
 
-### 📄 Report View  
+### Report View  
 <img src="./assets/ReportDemo.gif" alt="Report View Demo" width="700" />
 
 ---
 
 ## Features
 
-- ✅ **Real-time Speech-to-Text**  
+- **Real-time Speech-to-Text**  
   Transcribes your voice into text live using the browser’s WebKit Speech Recognition API.
 
-- 💬 **Live Transcript Viewer**  
+- **Live Transcript Viewer**  
   See your spoken words appear instantly on the screen, formatted in a readable way.
 
-- ⏱ **Session Timer**  
+- **Session Timer**  
   Automatically tracks how long you’ve been talking.
 
-- 💾 **Download Your Thoughts**  
+- **Download Your Thoughts**  
   Save your transcript as a `.txt` file with one click.
 
-- 🧹 **Clear Notes**  
+- **Clear Notes**  
   Quickly clear your transcript and start fresh.
 
-- 🧠 **AI-Powered Report Generation**
+- **AI-Powered Report Generation**
   Once your speech is transcribed, send it to a powerful backend built with Spring Boot and Gemini AI to automatically summarize and format your thoughts into a polished report.
   
-- 📄 **Export to Word**
+- **Export to Word**
   Instantly download your AI-generated report as a .docx file — ready to share, print, or archive.
   
 - **Sleek UI with Tailwind CSS**  
@@ -84,7 +84,7 @@ This app uses a **smart/dumb component architecture** for optimal separation of 
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 src/ 
@@ -100,7 +100,7 @@ asset/
 │  └── image assets
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/sanMakesApps/think-out-loud.git
